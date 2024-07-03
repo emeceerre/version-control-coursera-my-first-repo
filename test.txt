@@ -1,0 +1,1 @@
+# Añado esta línea de código para solucionar un bug imaginario con fines de ver y practicar con git, github y los remotes push y pull.
